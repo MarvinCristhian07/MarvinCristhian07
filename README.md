@@ -41,7 +41,11 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"/></code>
 
-<br>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="left">
   <a href="mailto:marvincristhian07.contato@gmail.com" target="_blank" title="Gmail">
@@ -51,9 +55,3 @@
   <a href="https://www.instagram.com/marvin_cristhian10?igsh=dXN5YmpsbW5pYmg3" target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake.svg">
-</picture>
