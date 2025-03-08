@@ -47,6 +47,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
+
 <p align="left">
   <a href="mailto:marvincristhian07.contato@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
