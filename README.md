@@ -57,3 +57,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarvinCristhian07/MarvinCristhian07/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/MarvinCristhian07/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
