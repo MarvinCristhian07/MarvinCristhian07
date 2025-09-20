@@ -59,8 +59,6 @@
 </div>
 
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/MarvinCristhian07/count.svg"
-    alt="Número de visitantes no perfil"
-  />
+  <img src="https://komarev.com/ghpvc/?username=MarvinCristhian07&color=orange" alt="Visitas ao perfil" />
 </p>
+
